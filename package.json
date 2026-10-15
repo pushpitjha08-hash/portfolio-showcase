@@ -1,0 +1,23 @@
+{
+  "name": "fullstack-react-node-portfolio",
+  "version": "1.0.0",
+  "description": "Sleek personal portfolio for a Full Stack Developer specialized in React.js and Node.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000",
+    "preview": "npx serve . -l 8080"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "reactjs",
+    "nodejs",
+    "developer",
+    "tailwind",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Alex Vance",
+  "license": "MIT"
+}
