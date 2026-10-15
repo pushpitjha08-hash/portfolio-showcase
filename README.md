@@ -1,4 +1,4 @@
-# 🚀 Sleek Full Stack Developer Portfolio (React.js & Node.js Specialist)
+# 🚀 AI-Assisted Full Stack Developer Portfolio (React.js & Node.js Specialist) 
 
 An ultra-modern, high-performance personal portfolio engineered specifically for **Full Stack Developers** specialized in **React.js** and **Node.js**.
 
